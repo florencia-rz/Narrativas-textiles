@@ -16,3 +16,8 @@ Estudiantes de diseño que quieran tener inspiración para sus futuros proyectos
 
 
 ## ¿Qué existe que es similar a la propuesta?
+#### https://centralhq.com/?ref=landings.dev
+### Aspectos positivos
+  * Estética sobria permite que el contenido tome protagonismo y no el diseño de la web en sí misma.
+### Aspectos negativos
+  * El trabajo de fotografías es muy bajo, hasta nulo, por lo que no le da personalidad a través del uso de este recurso y la página queda muy neutra en todo el tiempo. En este sentido, si se decide utilizar esta tipo de gráfica, habría que tener cuidado en no caer en lo monótono.
