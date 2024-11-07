@@ -43,3 +43,6 @@ Estudiantes de diseño que quieran tener inspiración para sus futuros proyectos
 #### Aspectos negativos
   * Al tratarse de un mismo evento, toda la estética de la web gira en torno a eso, por lo que en mi caso sería dificil poder replicar esta lógica ya que a pesar de que se trata de antecedentes y referentes para un mismo trabajo, sus identidades visuales son diferentes y dificiles de combinar.
 
+
+## ¿Qué existe que puede inspirar la propuesta?
+![Warm Neutral Moodboard](https://github.com/user-attachments/assets/caab8237-9580-4959-a9a9-e6e596d15098)
