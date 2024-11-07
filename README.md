@@ -43,6 +43,17 @@ Estudiantes de diseño que quieran tener inspiración para sus futuros proyectos
 #### Aspectos negativos
   * Al tratarse de un mismo evento, toda la estética de la web gira en torno a eso, por lo que en mi caso sería dificil poder replicar esta lógica ya que a pesar de que se trata de antecedentes y referentes para un mismo trabajo, sus identidades visuales son diferentes y dificiles de combinar.
 
+#### https://mykin.ai/
+#### Aspectos positivos
+  * Detalles dibujados a mano le dan un carácter de mayor cercanía y trabajo análogo, algo que busco en mi proyecto de título y que los antecedentes y referentes reflejan, por lo tanto sería un aporte incorporar guiños de esto en la misma gráfica de la web, aunque manteniendo la neutralidad antes la presentación de tantos proyectos distintos.
+#### Aspectos negativos
+  * Esta web trata sobre inteligencia artificial, entonces más allá de los recursos gráficos no me es posible rescatar aspectos asociados a contenido.
 
+#### https://www.domesiconcepthouse.cz/en/
+#### Aspectos positivos
+  * Destaco el trabajo de imagen-texto. Existe una unificación entre las fotograficas y los textos al trabajarlas en su conjunto (texto sobre imagen). 
+#### Aspectos negativos
+  * Sobre el mismmo aspecto posivito, aparece un aspecto a tener en cuenta: las fotografías deben ser elegidas pensando en que tendran doble función, la de ser información visual pero también que serán "fondo", por lo tanto obliga a que tengan un espacio vacío para poder incorporar texto sobre ellas.
+    
 ## ¿Qué existe que puede inspirar la propuesta?
 ![Warm Neutral Moodboard](https://github.com/user-attachments/assets/caab8237-9580-4959-a9a9-e6e596d15098)
