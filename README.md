@@ -17,7 +17,29 @@ Estudiantes de diseño que quieran tener inspiración para sus futuros proyectos
 
 ## ¿Qué existe que es similar a la propuesta?
 #### https://centralhq.com/?ref=landings.dev
-### Aspectos positivos
+#### Aspectos positivos
   * Estética sobria permite que el contenido tome protagonismo y no el diseño de la web en sí misma.
-### Aspectos negativos
+#### Aspectos negativos
   * El trabajo de fotografías es muy bajo, hasta nulo, por lo que no le da personalidad a través del uso de este recurso y la página queda muy neutra en todo el tiempo. En este sentido, si se decide utilizar esta tipo de gráfica, habría que tener cuidado en no caer en lo monótono.
+
+#### https://ohm.studio/?ref=godly 
+#### Aspectos positivos
+  * Se destaca este antecedente en la forma en la que se presenta el catálogo de productos, resaltando con mayor tamaño los más importantes. Llevando esta idea a mi propio proyecto, podría seleccionar dos o tres antecedentes/referentes que hayan sido más influyentos en el desarrollo del proyecto de título y resaltarlos no solo de manera escrita, sino más bien visual.
+  * El trabajo de las fotografías es muy cuidado y coherente, lo que aporta a la "actitud" del sitio web.
+#### Aspectos negativos
+  * La gran diferencia con mi proyecto es que en el caso de este antecedente, las fotografias son todas de un mismo estilo y de una misma familia de productos, lo que ahce sencillo mantener una misma línea de coherencia. Esto en el escenario de mi catálogo será un tema importante a abordar dado que los proyectos presentados son todos diferentes y puede existir una tendencia a la incoherencia de imágenes. 
+
+#### https://palette.supply/
+#### Aspectos positivos
+  * Una forma innovadora de presentar un catálogo de productos. Se aleja de lo que es una simple cuadrícula y en scroll tradicional.
+  * La manera en que unifican la estética de las fotografías es colocando su color representativo por sobre la imagen, "ocultando" su verdadedo contenido haciendo que el usuario lo descubra solo al poner el cursos por encima y obteniendo más profundidad al hacer click.
+#### Aspectos negativos
+  * El dinamismo de la página, más que un aspecto negativo, lo encuentro un buen desafío que abordar para esta última evaluación.
+  * Tal vez al tener un orden no tradicional, puede ser un poco más confuso el recorrido de la página. Habría que tener cuidado con el equilibrio entre innovador, funcional y recorrido lógico.
+
+#### https://beisbolensaltlake.com/?ref=onepagelove
+#### Aspectos positivos
+  * Se destaca la composición gráfica de collage presente a primera vista al entrar en la página web, esto con el objetivo de llamar la antención y mostrar el tema de manera atractiva antes de entrar en mayores detalles.
+#### Aspectos negativos
+  * Al tratarse de un mismo evento, toda la estética de la web gira en torno a eso, por lo que en mi caso sería dificil poder replicar esta lógica ya que a pesar de que se trata de antecedentes y referentes para un mismo trabajo, sus identidades visuales son diferentes y dificiles de combinar.
+
